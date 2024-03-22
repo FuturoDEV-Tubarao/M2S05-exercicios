@@ -2,11 +2,11 @@ package br.com.futurodev.heroi;
 
 import java.util.List;
 
-import br.com.futurodev.exception.OperacaoInvalidaException;
+import br.com.futurodev.heroi.exception.OperacaoInvalidaException;
 import br.com.futurodev.heroi.model.Heroi;
 import br.com.futurodev.heroi.model.Operacao;
+import br.com.futurodev.heroi.repository.HeroiRepository;
 import br.com.futurodev.heroi.view.HeroiView;
-import br.com.futurodev.repository.HeroiRepository;
 
 public class HeroiApp {
     

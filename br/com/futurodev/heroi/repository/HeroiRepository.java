@@ -1,4 +1,4 @@
-package br.com.futurodev.repository;
+package br.com.futurodev.heroi.repository;
 
 import java.util.ArrayList;
 import java.util.List;

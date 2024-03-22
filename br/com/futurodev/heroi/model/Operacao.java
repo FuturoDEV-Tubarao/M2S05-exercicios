@@ -1,6 +1,6 @@
 package br.com.futurodev.heroi.model;
 
-import br.com.futurodev.exception.OperacaoInvalidaException;
+import br.com.futurodev.heroi.exception.OperacaoInvalidaException;
 
 public enum Operacao {
     
